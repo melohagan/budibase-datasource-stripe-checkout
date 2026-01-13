@@ -1,12 +1,16 @@
-# Stripe-checkout-datasource
+# Deprecated
+
+Use the official Stripe [REST Template](https://docs.budibase.com/docs/rest-templates) instead!
+
+### Stripe-checkout-datasource
 Official Stripe docs here: https://stripe.com/docs/api/checkout/sessions/object?lang=node
 
-# Description
+### Description
 CRUD operations for Stripe checkout sessions
 
 Find out more about [Budibase](https://github.com/Budibase/budibase).
 
-## Instructions
+#### Instructions
 
 To build your new  plugin run the following in your Budibase CLI:
 ```
